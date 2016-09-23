@@ -1,0 +1,15 @@
+{
+  "name": "node-mongodb",
+  "version": "1.0.0",
+  "description": "node-mongodb",
+  "main": "mongo.js",
+  "dependencies": {
+    "mongodb": "^2.2.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liming",
+  "license": "ISC"
+}
